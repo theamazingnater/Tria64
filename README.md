@@ -15,5 +15,12 @@ info - Information about the OS.
 
 stop - Stops a currently playing sound. 
 
+# Joke Commands
+In other words, commands that I added because I was bored and had no ideas for useful commands.
+
+roblox - The computer tells you that you are indeed playing Roblox.
+
+amogus - amogus
+
 # What do you plan for this?
 Well, quite a bit actually! I'm planning to have most, if not all, of the original commands.
