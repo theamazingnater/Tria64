@@ -20,6 +20,8 @@ commandline.FocusLost:Connect(function(enterPressed)
 			-- Erase the screen, and then print out the commands
 			EraseScreen(false)
 			GenerateNewLine("PLEASE CHECK OUT THE GITHUB.", 40)
+			GenerateNewLine("https://github.com/theamazingnater/Tria64", 25)
+			GenerateNewLine("THERE IS A LIST OF COMMANDS THERE.")
 			wait(2)
 			EraseScreen(true)
 		end
