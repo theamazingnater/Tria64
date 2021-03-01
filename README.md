@@ -4,10 +4,15 @@ This really isn't a complete remake, there's only a few commands so far, which a
 
 # Commands
 loop - Loops a sound that's already been requested, can be used for music
+
 play - Plays a sound with a requested ID. It's just the asset ID, not "rbxassetid" or anything.
+
 erase - Erases the entire screen except for "READY." The code will automatically do this if there's too many lines on screen.
+
 help - Old command that used to list all commands. This was before I created this repository.
+
 info - Information about the OS.
+
 stop - Stops a currently playing sound. 
 
 # What do you plan for this?
