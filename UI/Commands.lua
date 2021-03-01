@@ -7,6 +7,8 @@ local module = {
 	sound = "play ";
 	loop = "loop";
 	stop = "stop";
+	roblox = "roblox";
+	amongus = "amogus"; -- why did i add this
 }
 
 return module
