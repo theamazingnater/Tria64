@@ -21,7 +21,7 @@ commandline.FocusLost:Connect(function(enterPressed)
 			EraseScreen(false)
 			GenerateNewLine("PLEASE CHECK OUT THE GITHUB.", 40)
 			GenerateNewLine("https://github.com/theamazingnater/Tria64", 25)
-			GenerateNewLine("THERE IS A LIST OF COMMANDS THERE.")
+			GenerateNewLine("THERE IS A LIST OF COMMANDS THERE.", 40)
 			wait(2)
 			EraseScreen(true)
 		end
