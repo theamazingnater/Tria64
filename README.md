@@ -15,6 +15,10 @@ info - Information about the OS.
 
 stop - Stops a currently playing sound. 
 
+volume - Does exactly what it sounds like. It changes the volume of the sound that is currently playing.
+
+pitch - Changes the pitch of the sound currently playing.
+
 # Joke Commands
 In other words, commands that I added because I was bored and had no ideas for useful commands.
 
