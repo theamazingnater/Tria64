@@ -62,13 +62,13 @@ commandline.FocusLost:Connect(function(enterPressed)
 		end
 		if string.sub(text, 1, 4) == commands.stop then
 			script.requestedSound:Stop()
-			GenerateNewLine("SOUND STOPPED.")
+			GenerateNewLine("SOUND STOPPED.", 40)
 		end
 		if string.sub(text, 1, 6) == commands.roblox then
-			GenerateNewLine("YOU ARE INDEED PLAYING ROBLOX.")
+			GenerateNewLine("YOU ARE INDEED PLAYING ROBLOX.", 40)
 		end
 		if string.sub(text, 1, 6) == commands.amongus then
-			GenerateNewLine("FUNNY.")
+			GenerateNewLine("FUNNY.", 40)
 		end
 	end
 end)
